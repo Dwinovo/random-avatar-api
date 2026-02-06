@@ -1,0 +1,11 @@
+{
+  "name": "vue-color-avatar-api",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {},
+  "type": "commonjs"
+}
