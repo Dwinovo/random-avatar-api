@@ -35,7 +35,7 @@
 
 2.  运行容器：
     ```bash
-    docker run -p 3000:3000 avatar-api
+    docker run -d --name random-avatar-api -p 3000:3000 avatar-api
     ```
 
 ## API 接口

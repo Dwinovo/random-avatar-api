@@ -35,7 +35,7 @@ The server listens on port `3000` by default.
 
 2.  Run the container:
     ```bash
-    docker run -p 3000:3000 avatar-api
+    docker run -d --name random-avatar-api -p 3000:3000 avatar-api
     ```
 
 ## API Endpoints
